@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes App Clean Architecture</string>
+    <string name="prefs_note_list">prefs_note_list</string>
+    <string name="tmp_title">This is a title of the note asdfasdf asdfasfa asdfasdf</string>
+    <string name="tmp_content">Test content here asd asd asd asd asd as das das das da sda sd asd asd asd asd asd asd asd asd asd as das das d asd asd as das</string>
+    <string name="tmp_date">8 - Dec - 2017</string>
+</resources>
